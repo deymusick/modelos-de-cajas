@@ -1,0 +1,15 @@
+
+/*dentro de esta etiqueta se definen los estilos a los id y clases*/
+a:hover {
+    color: rgb(132, 0, 255);
+}
+
+mi_imagen{
+    width: 200px;
+
+    height: 200px;
+} 
+
+ li {
+    float: left;
+}
